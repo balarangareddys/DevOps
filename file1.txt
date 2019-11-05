@@ -1,1 +1,1 @@
-First file is modified
+First file is modified after creation of branch hotfix_branch
